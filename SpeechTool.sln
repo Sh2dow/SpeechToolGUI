@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechTool", "SpeechTool\SpeechTool.csproj", "{C9516AC7-B689-4ED0-8206-D138EA44F6FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechToolGUI", "SpeechToolGUI\SpeechToolGUI.csproj", "{120A1784-0350-4BB1-8EA0-0A0DDFE598AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C9516AC7-B689-4ED0-8206-D138EA44F6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9516AC7-B689-4ED0-8206-D138EA44F6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9516AC7-B689-4ED0-8206-D138EA44F6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120A1784-0350-4BB1-8EA0-0A0DDFE598AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120A1784-0350-4BB1-8EA0-0A0DDFE598AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120A1784-0350-4BB1-8EA0-0A0DDFE598AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120A1784-0350-4BB1-8EA0-0A0DDFE598AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
